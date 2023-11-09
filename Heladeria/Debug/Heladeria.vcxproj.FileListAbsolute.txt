@@ -1,0 +1,13 @@
+C:\Users\Rudy Méndez Galindo\source\repos\Heladeria\Heladeria\Debug\Heladeria.vcxprojAssemblyReference.cache
+C:\Users\Rudy Méndez Galindo\source\repos\Heladeria\Heladeria\Debug\Heladeria.Menuu.resources
+C:\Users\Rudy Méndez Galindo\source\repos\Heladeria\Heladeria\Debug\Heladeria.Princip.resources
+C:\Users\Rudy Méndez Galindo\source\repos\Heladeria\Heladeria\Debug\Heladeria.vcxproj.GenerateResource.cache
+C:\Users\Rudy Méndez Galindo\source\repos\Heladeria\Heladeria\Debug\Heladeria.Agregar.resources
+C:\Users\Rudy Méndez Galindo\source\repos\Heladeria\Heladeria\Debug\Heladeria.Mostrar.resources
+C:\Users\rudym\Downloads\Heladeria\Heladeria\Debug\Heladeria.vcxproj.AssemblyReference.cache
+C:\Users\rudym\Downloads\Heladeria\Heladeria\Debug\Heladeria.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\rudym\Downloads\Heladeria\Heladeria\Debug\Heladeria.Agregar.resources
+C:\Users\rudym\Downloads\Heladeria\Heladeria\Debug\Heladeria.Menuu.resources
+C:\Users\rudym\Downloads\Heladeria\Heladeria\Debug\Heladeria.Mostrar.resources
+C:\Users\rudym\Downloads\Heladeria\Heladeria\Debug\Heladeria.Princip.resources
+C:\Users\rudym\Downloads\Heladeria\Heladeria\Debug\Heladeria.vcxproj.GenerateResource.cache
